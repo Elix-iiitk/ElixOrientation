@@ -2,7 +2,7 @@
 
 > **Build. Break. Learn. Ship.**
 
-Welcome to the **Elix Club Orientation**, the first step into our ECE community. This session introduces who we are, what we work on, and how you can get involved. The detailed material for each area lives in its own folder in this repository (see [Repository Guide](#repository-guide)).
+Welcome to the **Elix Club Orientation**, the first step into our ECE community. This session introduces who we are, what we work on, and how you can get involved.
 
 ---
 
