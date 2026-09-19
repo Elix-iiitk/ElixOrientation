@@ -21,7 +21,6 @@ These are hackathons, conferences, startups, etc. that are related to ECE domain
 |International Conference on<br>Signal Processing<br>and Communications (SPCOM)|-|26 Mar 2026|16 Jul 2026|18 Jul 2026|[Link to Website](https://ece.iisc.ac.in/~spcom/2026/)|
 |IEEE CONECCT|1 Dec 2026|15 Dec 2026|13 Mar 2027|15 Mar 2027|[Link to Website](https://ieee-conecct.org/)|
 |IEEE Indicon|22 Jun 2026|31 Aug 2026|18 Dec 2026|20 Dec 2026|[Link to Website](https://www.indicon2026.com/)|
-|
 
 ## Startups
 * [Mindgrove Technologies](https://www.mindgrovetech.in/)
