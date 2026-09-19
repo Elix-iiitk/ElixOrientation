@@ -10,4 +10,4 @@ Orientation about Elix for Freshers at IIIT Kottayam
 |VLSI Analog|Empty|
 |VLSI Digital|Empty|
 
-➡️ [Links](Link.md)
+➡️ [Links](Links.md)
