@@ -17,6 +17,7 @@ These are hackathons, conferences, startups, etc. that are related to ECE domain
 ## Conferences
 |Name|Paper Submission Starts|Paper Submission Ends|Conference Starts|Conference Ends|Website|
 |----|-----------------------|---------------------|-----------------|---------------|-------|
+|National Conference<br>on Communications (NCC)|-|16 Oct 2026|17 Feb 2026|20 Feb 2026|[Link to Website](https://ee.iith.ac.in/NCC2026/)|
 |IEEE Mapcon (conference)|2 Apr 2026|31 Aug 2026|14 Dec 2026|18 Dec 2026|[Link to Website](https://ieeemapcon.org/)|
 |International Conference on<br>Signal Processing<br>and Communications (SPCOM)|-|26 Mar 2026|16 Jul 2026|18 Jul 2026|[Link to Website](https://ece.iisc.ac.in/~spcom/2026/)|
 |IEEE CONECCT|1 Dec 2026|15 Dec 2026|13 Mar 2027|15 Mar 2027|[Link to Website](https://ieee-conecct.org/)|
