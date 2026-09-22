@@ -15,7 +15,7 @@ Welcome to the **Elix Club Orientation**, the first step into our ECE community.
   - **Signals & Communications:** processing and transmitting information, including software-defined radio
 - **Open-source tools:** the free tools we use so you can practise on your own laptop
 - **Opportunities:** hackathons, conferences and competitions in the ECE field
-- **Get involved:** how to join a project team and what to do in your first 30 days
+  
 
 ---
 
