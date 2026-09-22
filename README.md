@@ -20,5 +20,5 @@ Welcome to the **Elix Club Orientation**, the first step into our ECE community.
 ---
 
 *Welcome to Elix. Now go make something.*\
-➡️ [Tools](Tools.md)\
-➡️ [Links](Links.md)
+➡️ [opensource tools](Tools.md)\
+➡️ [conferences/hackathons](Links.md)
