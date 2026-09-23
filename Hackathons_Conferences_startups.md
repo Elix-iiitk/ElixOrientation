@@ -13,6 +13,7 @@ These are hackathons, conferences, startups, etc. that are related to ECE domain
 |VIT Code Apex 3.0|7 Sep 2026|9 Oct 2026|10 Oct 2026|23 Oct 2026|[Link to Website](https://unstop.com/hackathons/vit-code-apex-30-vishwakarma-institute-of-technology-pune-maharashtra-1751374)|
 |Tinkercase 4.0|-|May 2026|May 2026|Jun 2026|[Link to Website](https://unstop.com/competitions/tinkercase-40-ieee-day-2026-dtu-new-delhi-1755319)|
 |HackCBS 9.0|Sep 2026|26 Oct 2026|31 Oct 2026|1 Nov 2026|[Link to Website](https://hackcbs.tech/)|
+|SSCS PICO opensource chipathon|-|April 2026|May 2026|Sept 2026|[Link to website](https://sscs.ieee.org/technical-committees/tc-ose/sscs-pico-design-contest/)|
 
 ## Conferences
 |Name|Paper Submission Starts|Paper Submission Ends|Conference Starts|Conference Ends|Website|
