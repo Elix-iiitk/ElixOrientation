@@ -14,6 +14,7 @@ These are hackathons, conferences, startups, etc. that are related to ECE domain
 |Tinkercase 4.0|-|May 2026|May 2026|Jun 2026|[Link to Website](https://unstop.com/competitions/tinkercase-40-ieee-day-2026-dtu-new-delhi-1755319)|
 |HackCBS 9.0|Sep 2026|26 Oct 2026|31 Oct 2026|1 Nov 2026|[Link to Website](https://hackcbs.tech/)|
 |SSCS PICO opensource chipathon|-|April 2026|May 2026|Sept 2026|[Link to website](https://sscs.ieee.org/technical-committees/tc-ose/sscs-pico-design-contest/)|
+|Mathlab hackathons|-|-|-|-|[Link to website](https://in.mathworks.com/academia/students/competitions/hackathons.html)
 
 ## Conferences
 |Name|Paper Submission Starts|Paper Submission Ends|Conference Starts|Conference Ends|Website|
@@ -32,3 +33,4 @@ These are hackathons, conferences, startups, etc. that are related to ECE domain
 * [Skyroot Aerospace](https://www.skyroot.in)
 * [Ather Energy](https://www.atherenergy.com/about)
 * [Kerala Startup Mission (KSUM)](https://startupmission.kerala.gov.in/)
+* [Design linked incentive scheme](https://chips-dli.gov.in/DLI/HomePage)
