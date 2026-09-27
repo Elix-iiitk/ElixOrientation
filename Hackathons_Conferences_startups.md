@@ -34,3 +34,13 @@ These are hackathons, conferences, startups, etc. that are related to ECE domain
 * [Ather Energy](https://www.atherenergy.com/about)
 * [Kerala Startup Mission (KSUM)](https://startupmission.kerala.gov.in/)
 * [Design linked incentive scheme](https://chips-dli.gov.in/DLI/HomePage)
+
+##  Scholarships / Fellowships
+
+Here are some scholarship and fellowship opportunities relevant to ECE/VLSI students:
+
+| Opportunity | Link |
+|---|---|
+| IISc I-SWDP Scholarship | [Visit Website](https://iisc-iswdp.org/scholarship.php) |
+| VLSI Design Fellowship | [Call for Fellowship](https://vlsid.org/call-for-fellowship/) |
+  
