@@ -1,4 +1,4 @@
-# Links
+# Hackathons/Conferences/startups/scholarships:
 These are hackathons, conferences, startups, etc. that are related to ECE domain
 
 ## Hackathons
@@ -25,7 +25,7 @@ These are hackathons, conferences, startups, etc. that are related to ECE domain
 |IEEE CONECCT|1 Dec 2026|15 Dec 2026|13 Mar 2027|15 Mar 2027|[Link to Website](https://ieee-conecct.org/)|
 |IEEE Indicon|22 Jun 2026|31 Aug 2026|18 Dec 2026|20 Dec 2026|[Link to Website](https://www.indicon2026.com/)|
 |COMSNETS 2027|-|16 Sept 2026|5 Jan 2027|9 Jan 2027|[Link to website](https://www.comsnets.org/)|
-
+|WAMS 2027|01 July 2026|31 Dec 2026|01 July 2027|04 July 2027|[Link to website](https://www.wams2027.com/)
 
 ## Startups
 * [Mindgrove Technologies](https://www.mindgrovetech.in/)
